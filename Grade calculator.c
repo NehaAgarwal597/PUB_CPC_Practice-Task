@@ -47,6 +47,6 @@ int main(){
     {
         printf("Invalid marks!\n");
     }
-    return 0;
+Â Â Â Â returnÂ 0;
 }
 
