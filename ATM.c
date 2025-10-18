@@ -6,7 +6,7 @@ int main() {
     double balance = 10000.00;
     double amount;
 
-    printf("Enter Pin :  ");
+    printf("Enter Pin:  ");
     scanf("%d", &pin);
     printf("1. Check Your Balance\n");
     printf("2. Deposit Your Money\n");
@@ -34,14 +34,15 @@ int main() {
            printf("New balance after Withdraw: %.f\n", balance);
         }
         else if (amount > balance) {
-            printf("Insufficient balance!\n");
+            printf("Insufficient balance\n");
         }
 
     }
 
     else {
-        printf("Invalid option! \n");
-    }
+        printf("Invalid option \n");
+Â Â Â Â }
 
-  
+Â Â 
 }
+
