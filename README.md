@@ -1,2 +1,2 @@
 # PUB_CPC_Practice-Task
-Practice C programming 
+Just for Practicing C programming!
